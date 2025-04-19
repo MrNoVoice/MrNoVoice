@@ -12,7 +12,7 @@
 - 🌱 Currently learning **C#** and exploring **AI/ML**
 - 💻 Love building things that solve real problems
 - 📚 Constantly leveling up through code and curiosity
-- 🎮 Game dev + modding enthusiast
+- 🎮 Modding enthusiast
 - 📫 Reach me on **Discord** → `@mrnovoice_`
 - ⚡ *Fun Fact:* I genuinely believe I’ll change the world someday
 
